@@ -1,0 +1,17 @@
+#heading {
+    color: rosybrown;
+    background-color: lightskyblue;
+    padding: 5px;
+}
+#container {
+    padding: 5px;
+    background-color: cyan;
+}
+#wrapper {
+    padding: 5px;
+    background-color: beige;
+}
+#wrapper2 {
+    padding: 5px;
+    background-color: goldenrod;
+}

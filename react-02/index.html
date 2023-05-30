@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Namaste React!</title>
+    <link rel="stylesheet" href="./index.css">
+    <!-- it's recommended to load script tag in body closing tag as :
+    1. it may be possible that our js has some opetions on HTML and js load first it'll not find any html to refer 
+    2. if loading js takes time there will be white screen so better to load strcture first-->
+</head>
+
+<body>
+    <!--  if we have some content in btw root it'll be repleced with the js code
+     <div id="root">
+        <h1>Rohan JS</h1> // -> this will be replaced and will be visible for a micro sec on browser
+     </div>
+    -->
+    <h2>Top out side root </h2>
+    <div id="root"></div>
+    <h2>Bottom out side root </h2>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <!--  order of file matter as react should be loaded before loading our file -->
+    <script src="./App.js">
+    </script>
+</body>
+
+</html>
