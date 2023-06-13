@@ -1,7 +1,18 @@
 /react-03 initalizeApp/node_modules
-/react-04 initalizeAppNpm/node_modules
 /react-03 initalizeApp/dist
-/react-04 initalizeAppNpm/dist
 /react-03 initalizeApp/.parcel-cache/*
+/react-04 initalizeAppNpm/node_modules
+/react-04 initalizeAppNpm/dist
 /react-04 initalizeAppNpm/.parcel-cache/*
+/react-05 foundation/node_modules
+/react-05 foundation/dist
+/react-05 foundation/.parcel-cache/*
+
+/react-06 FoodApp/node_modules
+/react-06 FoodApp/dist
+/react-06 FoodApp/.parcel-cache/*
+
+react-07 FoodApp Re-Structure/node_modules
+react-07 FoodApp Re-Structure/dist
+react-07 FoodApp Re-Structure/.parcel-cache/*
 
