@@ -1,0 +1,58 @@
+.logo-img {
+    width: 155px;
+}
+.header-container {
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+ul > li {
+    padding: 10px 12px;
+    border-radius: 5px;
+    margin: 0 5px;
+    border: 1px solid;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.card-container {
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 4px;
+    width: 200px;
+    margin: 4px 2px;
+}
+.card-container:hover {
+    background-color: lightcyan;
+    cursor: pointer;
+}
+
+.rest-img {
+    width: 200px;
+    height: 140px;
+}
+.body-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.cusines {
+    word-wrap: break-word;
+}
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.shimmer-card {
+    width: 200px;
+    height: 220px;
+    margin: 4px;
+    background-color: lightgray;
+}

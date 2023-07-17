@@ -16,3 +16,19 @@ react-07 FoodApp Re-Structure/node_modules
 react-07 FoodApp Re-Structure/dist
 react-07 FoodApp Re-Structure/.parcel-cache/*
 
+react-08 FoodApp FetchAPIData/node_modules
+react-08 FoodApp FetchAPIData/dist
+react-08 FoodApp FetchAPIData/.parcel-cache/*
+
+react-09 FoodApp Routes Classy/node_modules
+react-09 FoodApp Routes Classy/dist
+react-09 FoodApp Routes Classy/.parcel-cache/*
+
+
+react-10 FoodApp  optimize/dist
+react-10 FoodApp  optimize/node_modules
+react-10 FoodApp  optimize/.parcel-cache/*
+
+react-11 FoodApp  Tailwind/dist
+react-11 FoodApp  Tailwind/node_modules
+react-11 FoodApp  Tailwind/.parcel-cache/*
